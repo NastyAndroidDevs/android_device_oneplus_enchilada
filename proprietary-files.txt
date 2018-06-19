@@ -1,0 +1,28 @@
+# Camera
+vendor/etc/camera/ashdr/iso617_4608x3456.ncf
+vendor/etc/camera/ashdr/ncf_pack.ncf
+vendor/etc/camera/ashdr/ncf_pack_imx371.ncf
+vendor/etc/camera/ashdr/ncf_pack_imx519.ncf
+vendor/etc/camera/attribute.model
+vendor/etc/camera/dbl_loss_chx2_front.model
+vendor/etc/camera/license.lic
+vendor/etc/qvr/ov7251_640x480_cam_config.xml
+vendor/etc/qvr/ov9282_stereo_1280x400_cam_config.xml
+vendor/etc/qvr/ov9282_stereo_2560x800_cam_config.xml
+vendor/etc/qvr/qvrservice_6dof_config.xml
+vendor/etc/qvr/qvrservice_6dof_config_stereo.xml
+vendor/etc/qvr/qvrservice_config.txt
+
+# Camera - arcsoft
+vendor/lib/libarcsoft_dualcam_bokeh_api.so
+vendor/lib/libarcsoft_dualcam_refocus_left.so
+vendor/lib/libarcsoft_dualcam_refocus_preview.so
+vendor/lib/libarcsoft_dualcam_refocus_right.so
+vendor/lib/libarcsoft_hdr_denoise_api.so
+vendor/lib/libarcsoft_high_dynamic_range.so
+vendor/lib/libarcsoft_smart_denoise.so
+
+# Firmware
+vendor/etc/firmware/tp/fw_synaptics_17819.img
+
+vendor/etc/qdcm_calib_data_samsung_sofef00_m_cmd_mode_dsi_panel.xml

@@ -1,0 +1,4 @@
+/op1(/.*)?                                                      u:object_r:op1_file:s0
+/op2(/.*)?                                                      u:object_r:op2_file:s0
+/dev/block/platform/soc/1d84000.ufshc/by-name/op1               u:object_r:op1_block_device:s0
+/dev/block/platform/soc/1d84000.ufshc/by-name/op2               u:object_r:op2_block_device:s0 
